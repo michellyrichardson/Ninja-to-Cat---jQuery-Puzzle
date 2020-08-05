@@ -1,0 +1,16 @@
+*{
+    margin: 5px;
+    padding: 0px;
+}
+
+#images{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+img{
+    width: 800px;
+    height: 150px;
+
+}
